@@ -8,6 +8,28 @@ Version 2.0 introduces a significantly expanded text editor, a detachable editin
 
 Chord Progression Notes is designed for songwriting, arranging, practicing, rehearsing, and keeping musical references organized within your Live Set.
 
+---
+
+## ☕ Support Development — Buy Me a Coffee
+
+**Chord Progression Notes is developed and distributed for free.**
+
+If you find this device useful for songwriting, arranging, practicing, or your everyday Ableton Live workflow, please consider supporting its development.
+
+Creating, improving, maintaining, and updating free Max for Live devices requires considerable time and effort.
+
+**Your support helps me continue developing free music production tools, improving existing devices, fixing bugs, and exploring new ideas for musicians and producers.**
+
+### ☕ [BUY ME A COFFEE — SUPPORT THE DEVELOPER](https://buymeacoffee.com/yohsukenak)
+
+**https://buymeacoffee.com/yohsukenak**
+
+Every contribution is greatly appreciated. Even a small coffee makes a difference.
+
+Thank you for supporting independent Max for Live development!
+
+---
+
 ## Features
 
 ### Chord Chart Editor
@@ -470,4 +492,32 @@ Place the device in your Ableton Live User Library or preferred Max for Live dev
 
 Drag it onto a track in Ableton Live.
 
-The device is distributed as a single `.
+The device is distributed as a single `.amxd` file.
+
+---
+
+## ☕ Enjoying Chord Progression Notes? Support Its Future!
+
+Chord Progression Notes is part of my ongoing effort to create useful, accessible, and free Max for Live tools for musicians, songwriters, producers, and performers.
+
+I develop these devices independently and make them available to the music production community.
+
+**If Chord Progression Notes has helped your creative workflow, please consider buying me a coffee.**
+
+Your contribution supports:
+
+- Continued development of free Max for Live devices
+- Bug fixes and compatibility improvements
+- New features and workflow enhancements
+- Maintenance and documentation
+- Development of other creative music production tools
+
+### ☕ [BUY ME A COFFEE — CLICK HERE TO SUPPORT](https://buymeacoffee.com/yohsukenak)
+
+**Support link: https://buymeacoffee.com/yohsukenak**
+
+**No contribution is required to use the device.** Supporting the project is entirely optional, but every coffee is sincerely appreciated.
+
+Thank you for using Chord Progression Notes and supporting independent music software development!
+
+**Developed by Yohsuke Nakano**
